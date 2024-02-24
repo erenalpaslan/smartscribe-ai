@@ -6,13 +6,13 @@
  |_| |_|\___/|_| \_\___/____\___/|_| \_|  \___/|___|
                                                                                                                                                                                                                                                                                                                                        
 =========================================================
-* Horizon UI - v1.1.0
+* Smartscribe - v1.1.0
 =========================================================
 
 * Product Page: https://www.horizon-ui.com/
-* Copyright 2023 Horizon UI (https://www.horizon-ui.com/)
+* Copyright 2023 Smartscribe (https://www.horizon-ui.com/)
 
-* Designed and Coded by Simmmple
+* Designed and Coded by smartscribe
 
 =========================================================
 
